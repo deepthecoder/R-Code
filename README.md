@@ -1,3 +1,3 @@
-# R-Code
+# Stock Market Trend Prediction
 
 This repository contains all the codes used for the project on stock market. The code had been written in R.The project was aimed at predicting the trend of stock market using an ensemble machine learning technique called Xtreme Gradient Boosting popularly termed as XGBoost. The main aim behind choosing this algorithm was to get an enhanced accuracy as the algorithm employs the idea that each tree in the set is capable of learning from the errors of the previous tree. The dataset chosen to prove the accuracy of the algorithm was Apple.Inc and Yahoo.Inc! which has been taken from Yahoo finance and had been further smoothed to remove redundancy in the data set. The choice of the dataset was completely random. The average accuracy was found to be around 90%.
